@@ -1,0 +1,181 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="_91OfXjMhS5V9stdpYnl">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m1uv0q1TDtLl2snAq41z-1" value="Rececionista" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="80" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-2" value="Gestor" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="80" y="544" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-6" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Aptos;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;mso-ansi-language:&lt;br/&gt;PT;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Responder a pedido de reservar Salas e equipamentos&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="72" y="80" width="166" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-10" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="m1uv0q1TDtLl2snAq41z-2" target="m1uv0q1TDtLl2snAq41z-1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="160" y="430" as="sourcePoint" />
+            <mxPoint x="320" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-11" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Aptos;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;mso-ansi-language:&lt;br/&gt;PT;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Registar novos clientes&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="206" y="140" width="126" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-12" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Aptos;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;mso-ansi-language:&lt;br/&gt;PT;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Cancelar Reservas&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="230" y="220" width="126" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-13" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Aptos;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;mso-ansi-language:&lt;br/&gt;PT;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Consultar as reservas&lt;br/&gt;feitas&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="230" y="300" width="126" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-14" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Aptos;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;mso-ansi-language:&lt;br/&gt;PT;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Atualizar dados de&lt;br/&gt;clientes&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="244" y="380" width="126" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-15" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Aptos;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;mso-ansi-language:&lt;br/&gt;PT;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Gerar relatórios de&lt;br/&gt;utilização das salas e equipamentos&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="200" y="620" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-16" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Aptos;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;mso-ansi-language:&lt;br/&gt;PT;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Adicionar recursos&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="146" y="700" width="126" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-17" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Aptos;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;mso-ansi-language:&lt;br/&gt;PT;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Reportar avarias de&lt;br/&gt;equipamentos&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="180" y="530" width="126" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-18" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Aptos;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;mso-ansi-language:&lt;br/&gt;PT;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Elaborar orçamento&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="20" y="740" width="126" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-20" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="m1uv0q1TDtLl2snAq41z-1" target="m1uv0q1TDtLl2snAq41z-6" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="110" y="240" as="sourcePoint" />
+            <mxPoint x="270" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-21" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="m1uv0q1TDtLl2snAq41z-1" target="m1uv0q1TDtLl2snAq41z-11" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="110" y="240" as="sourcePoint" />
+            <mxPoint x="270" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-22" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="m1uv0q1TDtLl2snAq41z-12" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="110" y="290" as="sourcePoint" />
+            <mxPoint x="234" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-23" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="m1uv0q1TDtLl2snAq41z-1" target="m1uv0q1TDtLl2snAq41z-13" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="300" as="sourcePoint" />
+            <mxPoint x="237" y="264" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-24" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="m1uv0q1TDtLl2snAq41z-1" target="m1uv0q1TDtLl2snAq41z-14" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="310" as="sourcePoint" />
+            <mxPoint x="240" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-25" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="m1uv0q1TDtLl2snAq41z-2" target="m1uv0q1TDtLl2snAq41z-15" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="300" as="sourcePoint" />
+            <mxPoint x="240" y="425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-26" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="m1uv0q1TDtLl2snAq41z-2" target="m1uv0q1TDtLl2snAq41z-16" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="490" as="sourcePoint" />
+            <mxPoint x="240" y="505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-27" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="m1uv0q1TDtLl2snAq41z-1" target="m1uv0q1TDtLl2snAq41z-17" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="490" as="sourcePoint" />
+            <mxPoint x="230" y="584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-28" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="m1uv0q1TDtLl2snAq41z-2" target="m1uv0q1TDtLl2snAq41z-18" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="490" as="sourcePoint" />
+            <mxPoint x="208" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-29" value="&lt;i&gt;pedido do cliente&lt;/i&gt;" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="710" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-30" value="&lt;i&gt;Técnico de&amp;nbsp;&lt;/i&gt;&lt;div&gt;&lt;i&gt;manutenção&lt;/i&gt;&lt;/div&gt;" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="690" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-33" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="m1uv0q1TDtLl2snAq41z-35" target="m1uv0q1TDtLl2snAq41z-29" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="342" y="185" as="sourcePoint" />
+            <mxPoint x="590" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-35" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Aptos;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;mso-ansi-language:&lt;br/&gt;PT;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Consultar horários disponíveis&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="140" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-36" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="MSG8KeS3NSB1iy2sjHzy-1" target="m1uv0q1TDtLl2snAq41z-29" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="560" y="120" as="sourcePoint" />
+            <mxPoint x="730" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-37" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Aptos;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;mso-ansi-language:&lt;br/&gt;PT;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Consultar tamanho das salas&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="220" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-38" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="m1uv0q1TDtLl2snAq41z-37" target="m1uv0q1TDtLl2snAq41z-29" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="564" y="185" as="sourcePoint" />
+            <mxPoint x="720" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-39" value="&lt;span style=&quot;line-height: 107%; font-size: 13px;&quot;&gt;Consultar notificações de avararias&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="400" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="m1uv0q1TDtLl2snAq41z-40" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="m1uv0q1TDtLl2snAq41z-39" target="m1uv0q1TDtLl2snAq41z-30" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="564" y="265" as="sourcePoint" />
+            <mxPoint x="720" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R8Dc4k4uLWk9_VorOqXX-2" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Aptos;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;mso-ansi-language:&lt;br/&gt;PT;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Consultar Disponibilidade de Salas e Equipamento&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="238" y="450" width="132" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R8Dc4k4uLWk9_VorOqXX-4" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=0.015;entryY=0.321;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="R8Dc4k4uLWk9_VorOqXX-2" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="110" y="290" as="sourcePoint" />
+            <mxPoint x="238" y="495" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R8Dc4k4uLWk9_VorOqXX-5" value="&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;Reportar avarias de Equipamentos&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="290" width="146" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="R8Dc4k4uLWk9_VorOqXX-6" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="R8Dc4k4uLWk9_VorOqXX-5" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="564" y="445" as="sourcePoint" />
+            <mxPoint x="710" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R8Dc4k4uLWk9_VorOqXX-7" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Responder a notificação de Avarias&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="480" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="R8Dc4k4uLWk9_VorOqXX-8" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=0.897;exitY=0.246;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="R8Dc4k4uLWk9_VorOqXX-7" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="564" y="445" as="sourcePoint" />
+            <mxPoint x="690" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MSG8KeS3NSB1iy2sjHzy-1" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Aptos;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;mso-ansi-language:&lt;br/&gt;PT;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Pedido de reserva de sala e equipamento&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="60" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MSG8KeS3NSB1iy2sjHzy-2" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Aptos;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;mso-ansi-language:&lt;br/&gt;PT;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Pedido de orçamento&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="280" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MSG8KeS3NSB1iy2sjHzy-3" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MSG8KeS3NSB1iy2sjHzy-2" target="m1uv0q1TDtLl2snAq41z-29">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="656" y="335" as="sourcePoint" />
+            <mxPoint x="720" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
