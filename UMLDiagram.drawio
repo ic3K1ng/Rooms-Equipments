@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="24.8.6" pages="3">
   <diagram id="Xv4Ezc63NW2Mipu4XVVe" name="Diagrama de Sequência 1">
-    <mxGraphModel dx="1008" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2016" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -493,7 +493,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="azybmd8D8VKvGZowJ9bb" name="Diagrama de Sequência 3">
-    <mxGraphModel dx="1008" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2016" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -587,15 +587,6 @@
         </mxCell>
         <mxCell id="7ROgXMVmCUJNxhibYtZJ-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7ROgXMVmCUJNxhibYtZJ-39" vertex="1">
           <mxGeometry x="55" y="405.5" width="10" height="44.5" as="geometry" />
-        </mxCell>
-        <mxCell id="7ROgXMVmCUJNxhibYtZJ-45" value="TipoSala" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1490" y="54.5" width="120" height="761" as="geometry" />
-        </mxCell>
-        <mxCell id="7ROgXMVmCUJNxhibYtZJ-46" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7ROgXMVmCUJNxhibYtZJ-45" vertex="1">
-          <mxGeometry x="55" y="215.5" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7ROgXMVmCUJNxhibYtZJ-47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7ROgXMVmCUJNxhibYtZJ-45" vertex="1">
-          <mxGeometry x="55" y="281" width="10" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="7ROgXMVmCUJNxhibYtZJ-50" value="Orçamento" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="730" y="49.5" width="120" height="761" as="geometry" />
