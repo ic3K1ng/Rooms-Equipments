@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.3" pages="2">
   <diagram name="Use Case normal" id="_91OfXjMhS5V9stdpYnl">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,9 +36,6 @@
         </mxCell>
         <mxCell id="m1uv0q1TDtLl2snAq41z-16" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Aptos;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;mso-ansi-language:&lt;br/&gt;PT;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Adicionar recursos&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="146" y="700" width="126" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="m1uv0q1TDtLl2snAq41z-17" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Aptos;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;mso-ansi-language:&lt;br/&gt;PT;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Reportar avarias de&lt;br/&gt;equipamentos&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="180" y="530" width="126" height="70" as="geometry" />
         </mxCell>
         <mxCell id="m1uv0q1TDtLl2snAq41z-18" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Aptos;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;mso-ansi-language:&lt;br/&gt;PT;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Elaborar orçamento&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="20" y="740" width="126" height="70" as="geometry" />
@@ -85,12 +82,6 @@
             <mxPoint x="240" y="505" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m1uv0q1TDtLl2snAq41z-27" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="m1uv0q1TDtLl2snAq41z-1" target="m1uv0q1TDtLl2snAq41z-17" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="120" y="490" as="sourcePoint" />
-            <mxPoint x="230" y="584" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="m1uv0q1TDtLl2snAq41z-28" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="m1uv0q1TDtLl2snAq41z-2" target="m1uv0q1TDtLl2snAq41z-18" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="120" y="490" as="sourcePoint" />
@@ -119,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m1uv0q1TDtLl2snAq41z-39" value="&lt;span style=&quot;line-height: 107%; font-size: 13px;&quot;&gt;Consultar notificações de avararias&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="414" y="400" width="140" height="70" as="geometry" />
+          <mxGeometry x="440" y="390" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="m1uv0q1TDtLl2snAq41z-40" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="m1uv0q1TDtLl2snAq41z-39" target="m1uv0q1TDtLl2snAq41z-30" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -128,7 +119,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R8Dc4k4uLWk9_VorOqXX-2" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Aptos;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;mso-ansi-language:&lt;br/&gt;PT;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Consultar Disponibilidade de Salas e Equipamento&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="238" y="450" width="132" height="80" as="geometry" />
+          <mxGeometry x="180" y="450" width="132" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R8Dc4k4uLWk9_VorOqXX-4" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=0.015;entryY=0.321;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="R8Dc4k4uLWk9_VorOqXX-2" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -136,17 +127,8 @@
             <mxPoint x="238" y="495" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R8Dc4k4uLWk9_VorOqXX-5" value="&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;Reportar avarias de Equipamentos&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="230" width="146" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="R8Dc4k4uLWk9_VorOqXX-6" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="R8Dc4k4uLWk9_VorOqXX-5" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="564" y="445" as="sourcePoint" />
-            <mxPoint x="710" y="130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="R8Dc4k4uLWk9_VorOqXX-7" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Responder a notificação de Avarias&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="480" width="140" height="70" as="geometry" />
+          <mxGeometry x="480" y="490" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="R8Dc4k4uLWk9_VorOqXX-8" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=0.897;exitY=0.246;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="R8Dc4k4uLWk9_VorOqXX-7" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -158,7 +140,7 @@
           <mxGeometry x="390" y="60" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MSG8KeS3NSB1iy2sjHzy-2" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Aptos;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;mso-ansi-language:&lt;br/&gt;PT;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Pedido de orçamento&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="280" width="150" height="70" as="geometry" />
+          <mxGeometry x="510" y="220" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MSG8KeS3NSB1iy2sjHzy-3" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="MSG8KeS3NSB1iy2sjHzy-2" target="m1uv0q1TDtLl2snAq41z-29" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
