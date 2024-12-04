@@ -1,39 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="8Aq93Ui9qlEZJKwYrvEK">
-    <mxGraphModel dx="656" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="778" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lQ6XAFkxPRaIhoXrPiVW-1" target="lQ6XAFkxPRaIhoXrPiVW-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="115" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-8" value="Fazer pedido de reserva de&lt;div&gt;&amp;nbsp;Sala e Equipamento&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQ6XAFkxPRaIhoXrPiVW-2">
-          <mxGeometry x="-0.4402" y="-1" relative="1" as="geometry">
-            <mxPoint x="40" y="-21" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-1" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="80" y="100" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lQ6XAFkxPRaIhoXrPiVW-5" target="lQ6XAFkxPRaIhoXrPiVW-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-9" value="Pedido aceite pelo&amp;nbsp;&lt;div&gt;rececionista&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQ6XAFkxPRaIhoXrPiVW-7">
-          <mxGeometry x="-0.2986" relative="1" as="geometry">
-            <mxPoint y="15" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-5" value="Pendente&amp;nbsp;" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="290" y="95" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-6" value="Concluido" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="290" y="250" width="140" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="lQ6XAFkxPRaIhoXrPiVW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="lQ6XAFkxPRaIhoXrPiVW-12" target="lQ6XAFkxPRaIhoXrPiVW-15" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="115" as="targetPoint" />
+            <mxPoint x="210" y="135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lQ6XAFkxPRaIhoXrPiVW-11" value="Fazer pedido de orçamento&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQ6XAFkxPRaIhoXrPiVW-10">
@@ -42,7 +15,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lQ6XAFkxPRaIhoXrPiVW-12" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="560" y="100" width="30" height="30" as="geometry" />
+          <mxGeometry x="130" y="120" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lQ6XAFkxPRaIhoXrPiVW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="lQ6XAFkxPRaIhoXrPiVW-15" target="lQ6XAFkxPRaIhoXrPiVW-16" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -53,19 +26,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lQ6XAFkxPRaIhoXrPiVW-15" value="Pedente" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="770" y="95" width="140" height="40" as="geometry" />
+          <mxGeometry x="340" y="115" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lQ6XAFkxPRaIhoXrPiVW-16" value="Concluido" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="770" y="250" width="140" height="40" as="geometry" />
+          <mxGeometry x="340" y="270" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lQ6XAFkxPRaIhoXrPiVW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lQ6XAFkxPRaIhoXrPiVW-15" target="lQ6XAFkxPRaIhoXrPiVW-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="910" y="110" as="sourcePoint" />
-            <mxPoint x="910" y="130" as="targetPoint" />
+            <mxPoint x="480" y="130" as="sourcePoint" />
+            <mxPoint x="480" y="150" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="840" y="40" />
-              <mxPoint x="990" y="40" />
-              <mxPoint x="990" y="115" />
+              <mxPoint x="410" y="60" />
+              <mxPoint x="560" y="60" />
+              <mxPoint x="560" y="135" />
             </Array>
           </mxGeometry>
         </mxCell>
