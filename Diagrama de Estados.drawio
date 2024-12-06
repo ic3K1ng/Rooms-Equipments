@@ -1,51 +1,110 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="8Aq93Ui9qlEZJKwYrvEK">
-    <mxGraphModel dx="778" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1000" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="lQ6XAFkxPRaIhoXrPiVW-12" target="lQ6XAFkxPRaIhoXrPiVW-15" parent="1">
+        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lQ6XAFkxPRaIhoXrPiVW-12" target="lQ6XAFkxPRaIhoXrPiVW-15" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="135" as="targetPoint" />
+            <mxPoint x="110" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-11" value="Fazer pedido de orçamento&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQ6XAFkxPRaIhoXrPiVW-10">
+        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-11" value="[O cliente fez uma reserva&lt;div&gt;tipo = 2 (orçamento)?]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lQ6XAFkxPRaIhoXrPiVW-10" vertex="1" connectable="0">
           <mxGeometry x="-0.4402" y="-1" relative="1" as="geometry">
-            <mxPoint x="40" y="-16" as="offset" />
+            <mxPoint x="39" y="-21" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-12" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="130" y="120" width="30" height="30" as="geometry" />
+        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-12" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="30" y="160" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="lQ6XAFkxPRaIhoXrPiVW-15" target="lQ6XAFkxPRaIhoXrPiVW-16" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-19" value="O cliente aceita/rejeita&amp;nbsp;&lt;div&gt;o orçamento&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQ6XAFkxPRaIhoXrPiVW-13">
-          <mxGeometry x="-0.239" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-15" value="Pedente" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="340" y="115" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-16" value="Concluido" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="340" y="270" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lQ6XAFkxPRaIhoXrPiVW-15" target="lQ6XAFkxPRaIhoXrPiVW-15">
+        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lQ6XAFkxPRaIhoXrPiVW-15" target="lQ6XAFkxPRaIhoXrPiVW-16" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="130" as="sourcePoint" />
-            <mxPoint x="480" y="150" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="410" y="60" />
-              <mxPoint x="560" y="60" />
-              <mxPoint x="560" y="135" />
+              <mxPoint x="270" y="258" />
+              <mxPoint x="230" y="258" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-18" value="O Gestor elabora o orçamento&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQ6XAFkxPRaIhoXrPiVW-17">
+        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-19" value="[O cliente aceita&amp;nbsp;&lt;div&gt;o orçamento]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lQ6XAFkxPRaIhoXrPiVW-13" vertex="1" connectable="0">
+          <mxGeometry x="-0.239" relative="1" as="geometry">
+            <mxPoint x="-60" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCTwy0jlZjvYDumoUy6w-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lQ6XAFkxPRaIhoXrPiVW-15" target="aCTwy0jlZjvYDumoUy6w-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="258" />
+              <mxPoint x="400" y="258" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCTwy0jlZjvYDumoUy6w-4" value="[O cliente rejeita&amp;nbsp;&lt;div&gt;o orçamento]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aCTwy0jlZjvYDumoUy6w-3">
+          <mxGeometry x="-0.1317" y="-2" relative="1" as="geometry">
+            <mxPoint x="41" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-15" value="Pedente" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="240" y="155" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-16" value="Aceite" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="160" y="321.15" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lQ6XAFkxPRaIhoXrPiVW-15" target="lQ6XAFkxPRaIhoXrPiVW-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="170" as="sourcePoint" />
+            <mxPoint x="380" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="100" />
+              <mxPoint x="460" y="100" />
+              <mxPoint x="460" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQ6XAFkxPRaIhoXrPiVW-18" value="O Gestor elabora o orçamento&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lQ6XAFkxPRaIhoXrPiVW-17" vertex="1" connectable="0">
           <mxGeometry x="-0.4041" y="1" relative="1" as="geometry">
             <mxPoint x="47" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aCTwy0jlZjvYDumoUy6w-2" value="Rejeitado" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="321.15" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aCTwy0jlZjvYDumoUy6w-5" value="Diagrama de Estado de Orçamento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="150" y="20" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aCTwy0jlZjvYDumoUy6w-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="aCTwy0jlZjvYDumoUy6w-8" target="aCTwy0jlZjvYDumoUy6w-13" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCTwy0jlZjvYDumoUy6w-7" value="[O cliente fez uma reserva&amp;nbsp;&lt;div&gt;tipo = 1 (reserva)?]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aCTwy0jlZjvYDumoUy6w-6">
+          <mxGeometry x="-0.4402" y="-1" relative="1" as="geometry">
+            <mxPoint x="39" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCTwy0jlZjvYDumoUy6w-8" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="630" y="160" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aCTwy0jlZjvYDumoUy6w-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="aCTwy0jlZjvYDumoUy6w-13" target="aCTwy0jlZjvYDumoUy6w-14" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="260" />
+              <mxPoint x="910" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCTwy0jlZjvYDumoUy6w-10" value="[O cliente cancela&amp;nbsp;&lt;div&gt;a reserva]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aCTwy0jlZjvYDumoUy6w-9">
+          <mxGeometry x="-0.239" relative="1" as="geometry">
+            <mxPoint x="-50" y="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCTwy0jlZjvYDumoUy6w-13" value="Reservado" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="840" y="155" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aCTwy0jlZjvYDumoUy6w-14" value="Cancelado" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="840" y="321.15" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aCTwy0jlZjvYDumoUy6w-18" value="Diagrama de Estado de Reserva" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="770" y="20" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
