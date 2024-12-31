@@ -1,0 +1,102 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="26.0.2" pages="2">
+  <diagram name="Diagrama de Pacote" id="sClFauXs4wk9jVOxM9OL">
+    <mxGraphModel dx="1560" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="q0SP1uWHfQND_2ZX-GWJ-0" />
+        <mxCell id="q0SP1uWHfQND_2ZX-GWJ-1" parent="q0SP1uWHfQND_2ZX-GWJ-0" />
+        <mxCell id="q0SP1uWHfQND_2ZX-GWJ-2" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=194;tabHeight=22;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=10;align=center;" vertex="1" parent="q0SP1uWHfQND_2ZX-GWJ-1">
+          <mxGeometry x="326.5" y="114.5" width="1313.5" height="465.5" as="geometry" />
+        </mxCell>
+        <mxCell id="q0SP1uWHfQND_2ZX-GWJ-3" value="" style="group" vertex="1" connectable="0" parent="q0SP1uWHfQND_2ZX-GWJ-1">
+          <mxGeometry x="360" y="200" width="420" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="q0SP1uWHfQND_2ZX-GWJ-4" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;- Atualizar Dados do Cliente&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;- Cancelar Reserva&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;- Consultar reservas Feitas&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;- Registar novos Clientes&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;- Consultar disponibilidade de Salas e Equipamento&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;- Responder a pedido de reservar salas e equipamentos&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=123;tabHeight=24;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;" vertex="1" parent="q0SP1uWHfQND_2ZX-GWJ-3">
+          <mxGeometry width="420" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="q0SP1uWHfQND_2ZX-GWJ-5" value="" style="triangle;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;rotation=-90;" vertex="1" parent="q0SP1uWHfQND_2ZX-GWJ-3">
+          <mxGeometry x="95.26" y="-4.02" width="15.53" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="q0SP1uWHfQND_2ZX-GWJ-8" value="" style="group" vertex="1" connectable="0" parent="q0SP1uWHfQND_2ZX-GWJ-1">
+          <mxGeometry x="880" y="280" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="q0SP1uWHfQND_2ZX-GWJ-9" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Fazer Pedido Reserva&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Cancelar Reserva&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;- Pedido de Orçamento&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;- Consultar Horários disponíveis&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;- Consultar disponibilidade de salas e equipamento&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=123;tabHeight=24;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;" vertex="1" parent="q0SP1uWHfQND_2ZX-GWJ-8">
+          <mxGeometry x="-40" y="-80" width="320" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="q0SP1uWHfQND_2ZX-GWJ-18" value="&lt;b&gt;Reserva de Salas e Equipamentos&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontFamily=Verdana" vertex="1" parent="q0SP1uWHfQND_2ZX-GWJ-1">
+          <mxGeometry x="327.5" y="114.5" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q0SP1uWHfQND_2ZX-GWJ-20" value="&lt;span style=&quot;font-family: Verdana; font-size: 10px; font-weight: 700; text-wrap: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Clientes&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="q0SP1uWHfQND_2ZX-GWJ-1">
+          <mxGeometry x="827" y="174.62" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q0SP1uWHfQND_2ZX-GWJ-31" value="&lt;span style=&quot;font-family: Verdana; font-size: 10px; font-weight: 700; text-wrap: nowrap;&quot;&gt;&amp;nbsp;Gestor&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="q0SP1uWHfQND_2ZX-GWJ-1">
+          <mxGeometry x="1170" y="170" width="100" height="39.23" as="geometry" />
+        </mxCell>
+        <mxCell id="q0SP1uWHfQND_2ZX-GWJ-21" value="&lt;span style=&quot;font-family: Verdana; font-size: 10px; font-weight: 700; text-wrap: nowrap;&quot;&gt;&amp;nbsp;Recepcionista&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="q0SP1uWHfQND_2ZX-GWJ-1">
+          <mxGeometry x="296.9973803526448" y="174.62" width="232.7455919395466" height="39.23" as="geometry" />
+        </mxCell>
+        <mxCell id="MmP4I8N5RAB4qoaKQNI2-2" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Gerar relatórios de salas e equipamentos&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Adicionar Recursos&lt;/div&gt;&lt;div&gt;- Elaborar Orçamento&lt;/div&gt;&lt;div&gt;- Atualizar Dados do Cliente&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;- Cancelar Reserva&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;- Consultar reservas Feitas&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;- Registar novos Clientes&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;- Consultar disponibilidade de Salas e Equipamento&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- Responder a pedido de reservar salas e equipamentos&lt;/div&gt;&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=123;tabHeight=24;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;" vertex="1" parent="q0SP1uWHfQND_2ZX-GWJ-1">
+          <mxGeometry x="1200" y="200" width="360" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="MmP4I8N5RAB4qoaKQNI2-3" value="" style="triangle;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;rotation=-90;" vertex="1" parent="q0SP1uWHfQND_2ZX-GWJ-1">
+          <mxGeometry x="1300" y="200" width="15.69" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q0SP1uWHfQND_2ZX-GWJ-14" value="" style="triangle;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;rotation=-90;" vertex="1" parent="q0SP1uWHfQND_2ZX-GWJ-1">
+          <mxGeometry x="940" y="200" width="15" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fz6mF41Jm4Tin135g67f" name="Diagrama de Componente">
+    <mxGraphModel dx="1008" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="14dWr6ufjvhdJ_bXrCET-7" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=10;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="14dWr6ufjvhdJ_bXrCET-23" target="14dWr6ufjvhdJ_bXrCET-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="530" as="sourcePoint" />
+            <mxPoint x="518.75" y="374.72" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14dWr6ufjvhdJ_bXrCET-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.584;exitY=1.016;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="14dWr6ufjvhdJ_bXrCET-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="664.25" y="440.36" as="sourcePoint" />
+            <mxPoint x="660" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14dWr6ufjvhdJ_bXrCET-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.571;exitY=1.04;exitDx=0;exitDy=0;dashed=1;exitPerimeter=0;entryX=0.446;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="14dWr6ufjvhdJ_bXrCET-25" target="14dWr6ufjvhdJ_bXrCET-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="630" as="sourcePoint" />
+            <mxPoint x="1000" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="740" />
+              <mxPoint x="840" y="740" />
+              <mxPoint x="980" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14dWr6ufjvhdJ_bXrCET-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=10;exitDy=0;dashed=1;exitPerimeter=0;" edge="1" parent="1" source="14dWr6ufjvhdJ_bXrCET-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="639.96" as="sourcePoint" />
+            <mxPoint x="483" y="640" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14dWr6ufjvhdJ_bXrCET-23" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Frontend.exe&lt;div&gt;Interface do Usuário&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="350" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="14dWr6ufjvhdJ_bXrCET-24" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Backend.exe&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Controladores&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="330" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="14dWr6ufjvhdJ_bXrCET-25" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;BaseDeDados.dll" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="610" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="14dWr6ufjvhdJ_bXrCET-26" value="&lt;p style=&quot;margin: 6px 0px 0px;&quot;&gt;ClientController.cs&lt;/p&gt;&lt;p style=&quot;margin: 6px 0px 0px;&quot;&gt;ReservaController.cs&lt;/p&gt;&lt;p style=&quot;margin: 6px 0px 0px;&quot;&gt;SalaController.dll&lt;/p&gt;&lt;p style=&quot;margin: 6px 0px 0px;&quot;&gt;TipoSalaController.dll&lt;/p&gt;&lt;p style=&quot;margin: 6px 0px 0px;&quot;&gt;EquipamentoController.dll&lt;/p&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="500" width="230" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="14dWr6ufjvhdJ_bXrCET-27" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Notificacoes.dll&lt;br&gt;&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="600" width="220" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
